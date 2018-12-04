@@ -1,0 +1,1 @@
+docker run -e ENDPOINT=a:9000 tricky42/spaloyer:0.41
